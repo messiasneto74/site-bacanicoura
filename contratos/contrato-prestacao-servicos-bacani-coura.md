@@ -85,9 +85,11 @@ Pelo presente instrumento particular, as partes abaixo qualificadas celebram o p
 7.2. Os pagamentos serão realizados por **PIX** na chave telefônica **(62) 98137-8716**, titular Messias de Sousa Amorim Neto, ou outro meio acordado por escrito entre as partes.
 
 7.3. O atraso no pagamento de qualquer parcela sujeitará a CONTRATANTE a:
-   - (a) multa moratória de **2% (dois por cento)** sobre o valor em atraso;
-   - (b) juros de **1% (um por cento) ao mês**, pro rata die;
-   - (c) possibilidade de **suspensão dos serviços** pelo PRESTADOR após **15 (quinze) dias** de inadimplência, mediante comunicação prévia, sem prejuízo das demais medidas cabíveis.
+   - (a) multa moratória de **10% (dez por cento)** sobre o valor em atraso;
+   - (b) juros de mora de **2% (dois por cento) ao mês**, calculados pro rata die;
+   - (c) correção monetária pelo **IPCA/IBGE** (ou índice oficial que o substitua), acumulada desde o vencimento até o pagamento integral;
+   - (d) possibilidade de **suspensão dos serviços** pelo PRESTADOR após **10 (dez) dias** de inadimplência, mediante comunicação prévia, sem prejuízo das demais medidas cabíveis;
+   - (e) em razão do inadimplemento, **todos os honorários advocatícios, custas, emolumentos e demais despesas** de cobrança judicial ou extrajudicial serão suportados **integral e exclusivamente pela CONTRATANTE**, incluindo honorários contratuais do advogado do PRESTADOR no montante mínimo de **10% (dez por cento)** sobre o valor atualizado do débito, **sem prejuízo** dos honorários de sucumbência e demais verbas que vierem a ser fixadas em favor do PRESTADOR.
 
 7.4. A quitação integral das parcelas é condição para os efeitos da Cláusula 9, na forma ali prevista.
 
