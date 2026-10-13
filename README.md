@@ -46,5 +46,6 @@ O projeto está dividido em 3 fases:
 
 ## Links
 
-- Proposta comercial: ver PDF no repositório ou compartilhado com a clínica
+- Contrato de prestação de serviços: [`contratos/contrato-prestacao-servicos-bacani-coura.md`](./contratos/contrato-prestacao-servicos-bacani-coura.md)
+- Proposta comercial: [`contratos/Proposta_Comercial_BacaniCoura_R1400.pdf`](./contratos/Proposta_Comercial_BacaniCoura_R1400.pdf)
 - Plano de issues: [`plano-issues-bacanicoura.md`](./plano-issues-bacanicoura.md)
