@@ -32,7 +32,9 @@ Pelo presente instrumento particular, as partes abaixo qualificadas celebram o p
 
 3.3. O **custo de uso da API de inteligência artificial (Anthropic)** utilizada pelo agente de anamnese será **pago diretamente pela CONTRATANTE**, à parte do valor da implantação, conforme Anexo C.
 
-3.4. Despesas com **domínio, hospedagem, ferramentas de terceiros e demais custos de operação** do site após a publicação, quando não cobertos expressamente pela implantação, são de responsabilidade da CONTRATANTE, podendo o PRESTADOR auxiliar na contratação ou configuração mediante acordo posterior.
+3.4. O **registro, a renovação anual e todas as taxas do domínio** do site (incluindo aquisição do nome e manutenção junto ao registrador) são de **responsabilidade exclusiva da CONTRATANTE**, que deverá contratá-lo e mantê-lo **em seu nome** (ou em nome da LBMC). O PRESTADOR limita-se à orientação e à configuração de DNS na implantação, quando aplicável.
+
+3.5. Despesas com **hospedagem, ferramentas de terceiros e demais custos de operação** do site após a publicação, quando não cobertos expressamente pela implantação, também são de responsabilidade da CONTRATANTE, podendo o PRESTADOR auxiliar na contratação ou configuração mediante acordo posterior (Cláusula 6).
 
 ---
 
@@ -58,13 +60,15 @@ Pelo presente instrumento particular, as partes abaixo qualificadas celebram o p
 
 5.3. Designar médico responsável — **Lucas Bacani de Moraes Coura, CRM/GO 35.981**, ou outro indicado por escrito — para revisar e aprovar o roteiro de anamnese do agente.
 
-5.4. Conceder acessos à ferramenta de agenda da clínica e ao Google Meu Negócio, quando necessários à integração e ao SEO local.
+5.4. **Registrar, pagar e renovar o domínio** do site em nome próprio ou da LBMC, fornecendo ao PRESTADOR os acessos necessários à configuração (DNS), quando solicitado.
 
-5.5. Efetuar o custeio do uso da API Anthropic do agente de anamnese.
+5.5. Conceder acessos à ferramenta de agenda da clínica e ao Google Meu Negócio, quando necessários à integração e ao SEO local.
 
-5.6. Responder às solicitações de aprovação (design, roteiro do agente e versão final) em até **3 (três) dias úteis**, salvo justificativa comunicada ao PRESTADOR, a fim de preservar o prazo estimado da Cláusula 11.
+5.6. Efetuar o custeio do uso da API Anthropic do agente de anamnese.
 
-5.7. Efetuar os pagamentos na forma da Cláusula 7.
+5.7. Responder às solicitações de aprovação (design, roteiro do agente e versão final) em até **3 (três) dias úteis**, salvo justificativa comunicada ao PRESTADOR, a fim de preservar o prazo estimado da Cláusula 11.
+
+5.8. Efetuar os pagamentos na forma da Cláusula 7.
 
 ---
 
